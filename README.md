@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Paisal Tanjung</h1>
 <h3 align="center">An amateur Web and RPA developer currently pursuing a Computer Science degree at Bina Nusantara University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paisaltanjung11&label=Profile%20views&color=0e75b6&style=flat" alt="paisaltanjung11" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=paisaltanjung11&label=Profile%20views&color=0e75b6&style=flat" alt="paisaltanjung11" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
