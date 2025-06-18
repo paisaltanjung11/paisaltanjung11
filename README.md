@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @paisaltanjung
-- 📫 paisaltanjung1102@gmail.com
+- 📫 paisaltan11@gmail.com
